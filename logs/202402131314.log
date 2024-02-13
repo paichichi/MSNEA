@@ -1,0 +1,21 @@
+2024-02-13 13:14:51,579 - INFO: training_data : datasets/FBDB15K/
+2024-02-13 13:14:51,579 - INFO: output : results/
+2024-02-13 13:14:51,579 - INFO: dataset_division : 721
+2024-02-13 13:14:51,579 - INFO: gpu_id : 0
+2024-02-13 13:14:51,579 - INFO: dim : 100
+2024-02-13 13:14:51,579 - INFO: margin : 1
+2024-02-13 13:14:51,579 - INFO: neg_triple_num : 1
+2024-02-13 13:14:51,579 - INFO: learning_rate : 0.001
+2024-02-13 13:14:51,579 - INFO: optimizer : Adam
+2024-02-13 13:14:51,579 - INFO: max_epoch : 200
+2024-02-13 13:14:51,580 - INFO: start_valid : 0
+2024-02-13 13:14:51,580 - INFO: eval_freq : 1
+2024-02-13 13:14:51,580 - INFO: early_stop : False
+2024-02-13 13:14:51,580 - INFO: batch_size : 5000
+2024-02-13 13:14:51,580 - INFO: batch_threads_num : 2
+2024-02-13 13:14:51,580 - INFO: test_threads_num : 4
+2024-02-13 13:14:51,580 - INFO: ordered : True
+2024-02-13 13:14:51,580 - INFO: stop_metric : mrr
+2024-02-13 13:14:51,580 - INFO: eval_metric : inner
+2024-02-13 13:14:51,580 - INFO: top_k : [1, 5, 10]
+2024-02-13 13:14:51,581 - INFO: eval_norm : True
